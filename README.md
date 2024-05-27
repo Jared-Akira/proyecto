@@ -1,4 +1,4 @@
-#GitHub y otros
+# GitHub y otros
 
 Hoy aprenderemos qué es GitHub y para qué nos puede servir, así cómo los procedimientos necesarios para crear un repositorio git dentro de un directorio de proyecto.
 
